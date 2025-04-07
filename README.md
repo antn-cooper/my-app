@@ -1,6 +1,6 @@
 # My React App
 
-[![Deploy to GitHub Pages](https://github.com/YOUR_GITHUB_USERNAME/my-app/actions/workflows/deploy.yml/badge.svg)](https://github.com/YOUR_GITHUB_USERNAME/my-app/actions/workflows/deploy.yml)
+[![Deploy to GitHub Pages](https://github.com/antn-cooper/my-app/actions/workflows/deploy.yml/badge.svg)](https://github.com/antn-cooper/my-app/actions/workflows/deploy.yml)
 
 A React app built with Vite and deployed to GitHub Pages using GitHub Actions.
 
@@ -11,7 +11,7 @@ A React app built with Vite and deployed to GitHub Pages using GitHub Actions.
 1. Clone the repository:
 
    ```
-   git clone https://github.com/YOUR_GITHUB_USERNAME/my-app.git
+   git clone https://github.com/antn-cooper/my-app.git
    cd my-app
    ```
 
